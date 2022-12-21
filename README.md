@@ -1,3 +1,3 @@
 # 🚀site_simples
 
-- 📍link :
+- 📍link : https://nicks0022.github.io/site_simples/
